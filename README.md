@@ -12,8 +12,8 @@ Files:
 
 5) sat_scores_clean.csv - CSV created with numpy savetxt, which eliminated the column name references and hence was not of much use for Tableau heat maps. Did not use.
 
-6) Heat Map - Mean Math Score.png.
+6) Heat Map - Mean Math Score.png. Map of the U.S. with the mean Math Scores by State mapped. See point 4 for more info.
 
-7) Heat Map - Mean Verbal Score.png
+7) Heat Map - Mean Verbal Score.png. See point 4 for more info.
 
-8) 
+8) U.S. Heat Map - Participation Rate for the SAT.png. See point 4 for more info.
